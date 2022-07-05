@@ -24,8 +24,9 @@ menu:
 * [Node Shapes](/doc/info/shapes.html)
 * [Arrow Shapes](/doc/info/arrows.html)
 
-## User's Guides
+## Interlisp Books
 
+- [Introduction to Medley, Release 2.0](/documentation/1992-02-An_Introduction_to_Medley_Release_2.0.pdf)
 
 
 ## Tool manual pages
