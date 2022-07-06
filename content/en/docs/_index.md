@@ -17,12 +17,7 @@ menu:
 
 ## On-line reference pages
 
-* [History](/doc/info/lang.html)
-* [Bibliography](/doc/info/command.html)
-* [Output Formats](/doc/info/output.html)
-* [Node, Edge and Graph Attributes](/doc/info/attrs.html)
-* [Node Shapes](/doc/info/shapes.html)
-* [Arrow Shapes](/doc/info/arrows.html)
+* [A Brief History of Interlisp](/doc/info/history.html)
 
 ## Interlisp Books
 
