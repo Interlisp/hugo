@@ -18,10 +18,19 @@ menu:
 ## On-line reference pages
 
 * [A Brief History of Interlisp](/doc/info/history.html)
+* [The Basics of Interlisp](/doc/info/Using.html)
+
+## Medley Interlisp References
+
+- [Medley for the Sun Workstation Users Guide](/documentation/SunUserGuide.pdf)
+- [Medley Primer](/documentation/Medley-Primer.pdf)
+- [Introduction to Medley, Release 2.0](/documentation/1992-02-An_Introduction_to_Medley_Release_2.0.pdf)
 
 ## Interlisp Books
-
-- [Introduction to Medley, Release 2.0](/documentation/1992-02-An_Introduction_to_Medley_Release_2.0.pdf)
+- [Interlisp - The Language and Its Usage](/documentation/1986-interlisp-language-book-1.pdf)
+  - [Medley Interlisp: Interactive Programming Environment (derived from Interlisp-D)](20211225-interlisp-book-2.pdf)
+  - [Medley Interlisp: Interactive Programming Tools (derived from Interlisp-D)](2021-interlisp-book-3.pdf)
+- [Interlisp Reference Manual](/documentation/IRM.pdf)
 
 
 ## Tool manual pages
